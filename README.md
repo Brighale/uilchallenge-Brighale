@@ -12,7 +12,7 @@ Output: The sum, positive difference, product, and quotient (formatted to two pl
 25 15</br>
 100 34</br>
 ## Sample Output:
-14 6 40 2.50
-34 6 280 1.43
-40 10 375 1.67
-134 66 3400 2.94
+14 6 40 2.50</br>
+34 6 280 1.43</br>
+40 10 375 1.67</br>
+134 66 3400 2.94</br>
